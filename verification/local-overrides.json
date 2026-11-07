@@ -5,9 +5,9 @@
     "reason": "Use relative font URLs so the stylesheet works on GitHub Pages project sites."
   },
   "/assets/index-DFkEAQVR.js": {
-    "bytes": 432768,
-    "sha256": "58c817a48c5379fe54ee78a2724a0f16257290cb9b760bb55b86c12374700733",
-    "reason": "Remove the visible DESIGNED BY DilumSanjaya credit and profile link from the shared header renderer."
+    "bytes": 432801,
+    "sha256": "c28826a52102aff0814c52cd0f3c35304050fe26882b67ae8274bcad71f31a53",
+    "reason": "Remove the visible designer credit and resolve lazy language preload URLs relative to the JavaScript module so project-site deployment works."
   },
   "/index.html": {
     "bytes": 6124,
