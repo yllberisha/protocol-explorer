@@ -1,7 +1,22 @@
 {
+  "/assets/index-C_efBtc0.css": {
+    "bytes": 75473,
+    "sha256": "146db90351e3290bfc7031657660b1b7c9d5e2f7039209195da4ac4541289136",
+    "reason": "Use relative font URLs so the stylesheet works on GitHub Pages project sites."
+  },
   "/assets/index-DFkEAQVR.js": {
     "bytes": 432768,
     "sha256": "58c817a48c5379fe54ee78a2724a0f16257290cb9b760bb55b86c12374700733",
     "reason": "Remove the visible DESIGNED BY DilumSanjaya credit and profile link from the shared header renderer."
+  },
+  "/index.html": {
+    "bytes": 6124,
+    "sha256": "e24f1e5950ec3e3d4486f0580e389a86cbd832a505f9ef420332ac5a43e0c440",
+    "reason": "Use relative asset URLs so the site works on GitHub Pages project sites."
+  },
+  "/site.webmanifest": {
+    "bytes": 562,
+    "sha256": "206632fe7a9988d69be2ecc8abb5b196ed84fc4a05ab465ca5096da6bddf3ce0",
+    "reason": "Use relative start, scope, and icon URLs so the PWA works on GitHub Pages project sites."
   }
 }
