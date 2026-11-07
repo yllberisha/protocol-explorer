@@ -1,0 +1,286 @@
+{
+  "origin": "https://protocol-explorer-alpha.vercel.app",
+  "capturedAt": "2026-11-07T21:51:59.210Z",
+  "files": [
+    {
+      "path": "/apple-touch-icon.png",
+      "bytes": 2873,
+      "sha256": "0977b763a7ecb969bbd23c10b9944feadfb534f327f12cf37387b8049a74ca87"
+    },
+    {
+      "path": "/assets/ar-DfCuVNay.js",
+      "bytes": 368084,
+      "sha256": "9fd7f435dfec148bf05a41c844ee151a46000ef1b3d74bb5583159cd6ddc939f"
+    },
+    {
+      "path": "/assets/de-D7SrB9Lc.js",
+      "bytes": 317945,
+      "sha256": "e6214150f2cfb4b09f487c075f5801aa9ce1959ab81c16c4892af0da986e16d1"
+    },
+    {
+      "path": "/assets/el-DniADxmC.js",
+      "bytes": 433656,
+      "sha256": "264102af6d03f498c0377d047b52f21ed21d6a4ac66d6a985730abde945a7a2d"
+    },
+    {
+      "path": "/assets/es-Bs4D6ikn.js",
+      "bytes": 317388,
+      "sha256": "20dac28e113fe7a62d8e16b5cb42e0de0f3c44abbf0d30c39b9faf7a1d0fd7d4"
+    },
+    {
+      "path": "/assets/fr-v-SRBheP.js",
+      "bytes": 326361,
+      "sha256": "fc268859d7f0fa096bfac9c68ebd930e0fa0f98ec530e53d404bb29e992076e5"
+    },
+    {
+      "path": "/assets/he-CGnEKbSn.js",
+      "bytes": 350712,
+      "sha256": "bc4beb6a48d5da6ce4090901807d3c832e5c2a859c5127f8a5f0cd68d4c3e4e6"
+    },
+    {
+      "path": "/assets/hi-FAh2SkjP.js",
+      "bytes": 484158,
+      "sha256": "307971cb0e08d12b18de6c0388d28f5b687aaa5f33a5f5b87798be55cfdf6a44"
+    },
+    {
+      "path": "/assets/id-DHavSWM7.js",
+      "bytes": 307647,
+      "sha256": "75c944e9a5da2ba6991d3cd9e4eb4e844da19ed159bbc5fa9e7a6b02b2286e22"
+    },
+    {
+      "path": "/assets/index-C_efBtc0.css",
+      "bytes": 75665,
+      "sha256": "16a24485ab3bc85c0e1075cdada202efed546b5101751cdbab37ee92ad4cc484"
+    },
+    {
+      "path": "/assets/index-DFkEAQVR.js",
+      "bytes": 433330,
+      "sha256": "34d8cc9dcd6a7328e5d40e4dd9c169942c3d3e6ff5b194e2659f83ff6cdf53f7"
+    },
+    {
+      "path": "/assets/iosevka-400-DnzhOSIo.woff2",
+      "bytes": 75928,
+      "sha256": "702dd65ac2b6c475ed3e5dbf9a3db637ba121e18cb36e1c4dc763d849d0fe0a2"
+    },
+    {
+      "path": "/assets/iosevka-500-C4FA_zML.woff2",
+      "bytes": 76056,
+      "sha256": "e6ab7223714d87352a3b5601dc6974ef0515c069cb1f1c57f5f3ad7503cee11d"
+    },
+    {
+      "path": "/assets/iosevka-600-Dj5n5yBL.woff2",
+      "bytes": 75844,
+      "sha256": "30d93b6c22d1ff507f66738b526c6c8ca5b90bcb997f8943819ee6787ddf99d3"
+    },
+    {
+      "path": "/assets/iosevka-700-BxdwZZnN.woff2",
+      "bytes": 75672,
+      "sha256": "0e4f1ad1048d745e2b0d9bddcb71bffc4796923ea2eb70c825cb9ff210e2b155"
+    },
+    {
+      "path": "/assets/iosevka-800-Ctjohn3a.woff2",
+      "bytes": 75492,
+      "sha256": "29f9603e5adda955490e9007913dbae76fe8892409ce1e8b460144e3c0d260bc"
+    },
+    {
+      "path": "/assets/iosevka-800-italic-D0Mo0HIB.woff2",
+      "bytes": 84244,
+      "sha256": "96c0912e56099dc4889458fd2218ac60ccedc60f98beaf448b47974a44780f30"
+    },
+    {
+      "path": "/assets/iosevka-cyrillic-400-BRUvrZdD.woff2",
+      "bytes": 10376,
+      "sha256": "884f17d0aa30f951f8e8c1e32e40c6cb8c04e81295d3edb3b51b6e858b90488f"
+    },
+    {
+      "path": "/assets/iosevka-cyrillic-500-k2u6RSy5.woff2",
+      "bytes": 10400,
+      "sha256": "8a68157b8e449f0a0c5f4fb977786bc2798c1e24f1e6f24d7aff66353cf6e44f"
+    },
+    {
+      "path": "/assets/iosevka-cyrillic-600-BhfwcpRd.woff2",
+      "bytes": 10292,
+      "sha256": "c2c5691d0b85a34c5f2cd5daa89658652d1d9d412a57ef626192fd1d1f00e4ba"
+    },
+    {
+      "path": "/assets/iosevka-cyrillic-700-CQSi7oL_.woff2",
+      "bytes": 10432,
+      "sha256": "7ef47d4490789d91d570209629c5adde7eea98684f0cbd8de6372898816a28cf"
+    },
+    {
+      "path": "/assets/iosevka-cyrillic-800-D3C0C3o1.woff2",
+      "bytes": 10500,
+      "sha256": "fc6f7cfab3cb61a4cc536e46328704f9935278b9be15dda2c75452e139b086c6"
+    },
+    {
+      "path": "/assets/iosevka-cyrillic-800-italic-BEuStPU_.woff2",
+      "bytes": 11968,
+      "sha256": "2cb8b5eb1d87d77f18b8d9c71661913d45fbc760f6c9181f14b2513543cc8e0f"
+    },
+    {
+      "path": "/assets/iosevka-greek-400-DqkqzRzb.woff2",
+      "bytes": 10368,
+      "sha256": "afe72d913bb4056e241d07fef980784c6c34b83a24bf745a319f57e64c3fbced"
+    },
+    {
+      "path": "/assets/iosevka-greek-500-BsCdN7a4.woff2",
+      "bytes": 10484,
+      "sha256": "bae880192a4c4f966aa1a92c9ac678a9d05c4ff4fc670a2f92da1cf36c0a9c84"
+    },
+    {
+      "path": "/assets/iosevka-greek-600-JJohN8BF.woff2",
+      "bytes": 10308,
+      "sha256": "bed2dc6a3a37cd103825aab7a4d5a7cabbe9e5ee8cc8c69d36a9b3d6918c017a"
+    },
+    {
+      "path": "/assets/iosevka-greek-700-BTYyC3CX.woff2",
+      "bytes": 10444,
+      "sha256": "251ade888be7c371a2cb4ed83c9ec3c5a9a4d6ca0834fa1a71524144b4a4a359"
+    },
+    {
+      "path": "/assets/iosevka-greek-800-CVVc1U8B.woff2",
+      "bytes": 10448,
+      "sha256": "f06238ab7d03a867ed53d93013b214e788571b1769904687d3547a9ac969de16"
+    },
+    {
+      "path": "/assets/iosevka-greek-800-italic-2l6MQ4o6.woff2",
+      "bytes": 11528,
+      "sha256": "e475d6f86228e02c43f23795c645c0c5bd0786cd9b4f42688cd84a8e77399fdb"
+    },
+    {
+      "path": "/assets/iosevka-vietnamese-400-CVp86myN.woff2",
+      "bytes": 5096,
+      "sha256": "a0f8ef6909d55052768849d7f6773351d0e0d7543abf54397ddbaf44c50a865b"
+    },
+    {
+      "path": "/assets/iosevka-vietnamese-500-DlYirsTP.woff2",
+      "bytes": 5048,
+      "sha256": "5ac81799ce06c603b5a13e3257216ab4e339d43beab9728a9c5dbe07e1add97e"
+    },
+    {
+      "path": "/assets/iosevka-vietnamese-600-Krzl70si.woff2",
+      "bytes": 5012,
+      "sha256": "c716136eeca52c233c56b82299df68760c1399f1b0539000c82f709592883697"
+    },
+    {
+      "path": "/assets/iosevka-vietnamese-700-MIuMuZqI.woff2",
+      "bytes": 5084,
+      "sha256": "c22b5136b012d7ed52f2d738f85748454ed50e17faacebd4276537075d3a7563"
+    },
+    {
+      "path": "/assets/iosevka-vietnamese-800-italic-CQxrZRlC.woff2",
+      "bytes": 5552,
+      "sha256": "8c7491d91cccbfd60cd8746d5eb817450fc4abb8809abd1d758e221db94ea7ec"
+    },
+    {
+      "path": "/assets/iosevka-vietnamese-800-LtTfXbIA.woff2",
+      "bytes": 5116,
+      "sha256": "d81b07fa77ba57ed4007cd620cdf42da4f4bd0873d3a15e9bf824ec717c7faed"
+    },
+    {
+      "path": "/assets/it-gF8Xgma_.js",
+      "bytes": 314960,
+      "sha256": "719b1fe3ac655a1f207209a1e9387731d1048857064d5fd1f4b62dc03249ccdf"
+    },
+    {
+      "path": "/assets/ja-DITONIIO.js",
+      "bytes": 357994,
+      "sha256": "dd5b2f082b6055f716ee6dd091b974844acc8bc005903fd9cf8a6fba84a7f998"
+    },
+    {
+      "path": "/assets/ko-BW-UAHzq.js",
+      "bytes": 330284,
+      "sha256": "9b53da284ec2103c25a643e74c74aa1cf30b84dfaf43c7d608433e6525559a69"
+    },
+    {
+      "path": "/assets/nl-Bf3Bze-A.js",
+      "bytes": 311305,
+      "sha256": "919876b026b81754d65647fb26c707e58af15a9b86919c93470a3aa77e205fcc"
+    },
+    {
+      "path": "/assets/pl-CGemLTK0.js",
+      "bytes": 309256,
+      "sha256": "8f5c1b774b2f535656ee19f40d4a5111aaace908279530ac3784eddbef554101"
+    },
+    {
+      "path": "/assets/pt-Bol0cGNk.js",
+      "bytes": 314398,
+      "sha256": "f0aeba4d457e863689cfca66a42aad49c1c38039719b7053d1366a4308b54cdd"
+    },
+    {
+      "path": "/assets/ru-s7k-m-j3.js",
+      "bytes": 404707,
+      "sha256": "78cbc06a3b4311fe92d5c4da07b416a4b4520bc6e6830bfe3c09f28ffe9d0059"
+    },
+    {
+      "path": "/assets/shared-CAKwAg2C.js",
+      "bytes": 1334,
+      "sha256": "13c380637146e9dce77b9c092b62b5f7599e3f334f6fa3a3f6948b6884aca587"
+    },
+    {
+      "path": "/assets/tr-Dp4C0hM8.js",
+      "bytes": 318771,
+      "sha256": "23b8fceb14e39d6d85fd23f93949cc66c7b657f4093f3f834d4fdfbbb5c94f26"
+    },
+    {
+      "path": "/assets/uk-CadaIrQU.js",
+      "bytes": 408404,
+      "sha256": "601db5ce34f0908d55d12358ddc85811c642aeb3e27e24f16975b0a31f7b38f3"
+    },
+    {
+      "path": "/assets/vi-DNWnVB7P.js",
+      "bytes": 330574,
+      "sha256": "7d9d5dab8b3449b04731d350a6d947d34f71a187be997a3d46351ec45e26413a"
+    },
+    {
+      "path": "/assets/zh-TW-BUaN_a3C.js",
+      "bytes": 303756,
+      "sha256": "7102602d78e2068aa8adb16aa5cb2c7c88557c4d06185abe6a3da9d2b8b82c17"
+    },
+    {
+      "path": "/assets/zh-U6G1DW5m.js",
+      "bytes": 300657,
+      "sha256": "ca8d932bd9ab3fe07454413a50c90f8c6760ad610f8edab254a259188f6a77b1"
+    },
+    {
+      "path": "/favicon.ico",
+      "bytes": 4159,
+      "sha256": "e2872e74d90baeae3237a4ea0fd298507ab3b669df6ec8934e7c9e2779ea551e"
+    },
+    {
+      "path": "/favicon.svg",
+      "bytes": 601,
+      "sha256": "a83a2c063ba4a1f26cdabc96a50074496ab80d77aa1c34fda71d143138f3a705"
+    },
+    {
+      "path": "/icon-192.png",
+      "bytes": 3706,
+      "sha256": "3343f13a51129dd6135bee942625c80e96cef95b9e5fa75f869eb7a00eb04ab5"
+    },
+    {
+      "path": "/icon-512.png",
+      "bytes": 10683,
+      "sha256": "76cbf02f338a8f44c6c5e94d194c2df84bc1fcd353af9fcec667ee95948d5367"
+    },
+    {
+      "path": "/icon-maskable-512.png",
+      "bytes": 11018,
+      "sha256": "1c7a88276e06976c08150e9d9f5cf8fa69bbac90ad382912c9f4169928e5aa5d"
+    },
+    {
+      "path": "/index.html",
+      "bytes": 6130,
+      "sha256": "81d82f21c93b65c45e9309276c0be05b8477ef93892f424af875ac503806ea01"
+    },
+    {
+      "path": "/og.png",
+      "bytes": 254238,
+      "sha256": "4ab7c6ccf91759178f947802aa4fe8ffa72dfe9b23ae8499b4976559a87da428"
+    },
+    {
+      "path": "/site.webmanifest",
+      "bytes": 563,
+      "sha256": "112c76b55bbce49c756d6812280c72bf0139aaeb0573bf77894b35238c475dca"
+    }
+  ]
+}
